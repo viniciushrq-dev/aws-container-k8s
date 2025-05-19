@@ -59,7 +59,7 @@ kubectl apply -f deployment.yaml
 Após aplicar, rode:
 kubectl get svc
 Quando o campo EXTERNAL-IP do serviço hello-service estiver disponível, acesse via navegador:
-http://<EXTERNAL-IP>
+http://EXTERNAL-IP
 
 📌 Observações
 As subnets foram configuradas com map_public_ip_on_launch = true para permitir acesso externo.
