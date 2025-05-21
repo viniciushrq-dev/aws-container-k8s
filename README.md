@@ -1,4 +1,3 @@
-FROM python:3.9
 🐳 Deploy de App Flask com Docker, EKS e Terraform (Free Tier)
 Este projeto faz o deploy de uma aplicação Flask em um cluster EKS (Amazon Kubernetes Service) usando Docker e Terraform, tudo dentro do AWS Free Tier.
 
